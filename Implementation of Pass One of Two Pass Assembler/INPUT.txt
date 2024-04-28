@@ -1,0 +1,10 @@
+**      START      2000
+**      LOA        FIVE
+**      STA        ALPHA
+**      LOCH       CHARZ
+**      STCH       C1
+ALPHA   RESW       1
+FIVE    WORD       5
+CHARZ   BYTE       C'Z'
+**      RESB       1
+**      END        *

@@ -1,0 +1,6 @@
+START  *
+LOA    03
+STA    0F
+LOCH   53
+STCH   57
+END    *
